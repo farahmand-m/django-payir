@@ -7,4 +7,4 @@ install:
   - pip install Django==2.2.11
   - pip install requests==2.23.0
 script:
-  echo "Tests disabled."
+  python setup.py sdist
