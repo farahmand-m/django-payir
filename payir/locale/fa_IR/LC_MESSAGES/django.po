@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-11 10:36+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: models.py:13
+msgid "Label"
+msgstr "برچسب"
+
+#: models.py:14
+msgid "API Key"
+msgstr "کلید API"
+
+#: models.py:15
+msgid "Redirect to"
+msgstr "صفحه‌ بازگشت"
+
+#: models.py:15
+msgid "Enter the path name for a view that will verify the transaction."
+msgstr "نام مسیر مرتبط با View وارد کنید که تایید تراکنش را انجام می‌دهد."
+
+#: models.py:18 models.py:127
+msgid "Gateway"
+msgstr "درگاه پرداخت"
+
+#: models.py:19
+msgid "Gateways"
+msgstr "درگاه‌های پرداخت"
+
+#: models.py:122
+msgid "Account"
+msgstr "کاربر"
+
+#: models.py:123
+msgid "Created"
+msgstr "تاریخ و زمان ایجاد"
+
+#: models.py:124
+msgid "Modified"
+msgstr "آخرین تغییر"
+
+#: models.py:125
+msgid "Amount (IRR)"
+msgstr "مبلغ (ریال)"
+
+#: models.py:126
+msgid "Description"
+msgstr "توضیحات"
+
+#: models.py:128
+msgid "Token"
+msgstr "Token پرداخت"
+
+#: models.py:129
+msgid "Verified"
+msgstr "تاییدشده"
+
+#: models.py:130
+msgid "Verified At"
+msgstr "تاریخ و زمان تایید"
+
+#: models.py:134
+msgid "Transaction"
+msgstr "تراکنش"
+
+#: models.py:135
+msgid "Transactions"
+msgstr "تراکنش‌ها"
+
+#: models.py:138
+#, python-format
+msgid "Transaction %(id)d"
+msgstr "تراکنش %(id)d"
