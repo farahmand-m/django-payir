@@ -1,5 +1,8 @@
 # Django Pay.ir
 
+[![Build Status](https://travis-ci.org/farahmand-m/django-payir.svg?branch=master)](https://travis-ci.org/farahmand-m/django-payir)
+[![PyPI version](https://badge.fury.io/py/django-payir.svg)](https://badge.fury.io/py/django-payir)
+
 Django Pay.ir is a pluggable application that integrates Pay.ir services into your website. The application introduces 
 two new models to your system that encapsulate Pay.ir API calls as object methods. Django Pay.ir has been tested on and 
 supports:
